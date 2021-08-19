@@ -1,0 +1,8 @@
+Program that reads in text from any language and returns a response stating what language it is written in.
+For best results, use at least a couple sentences.
+
+Run with command "node index.js 'phase_in_language'"
+
+make sure to run "npm install"
+
+uses color library to return response in green, and errors in red.
